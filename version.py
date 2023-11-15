@@ -1,10 +1,10 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "novacore"
+name = "NovaCore Engine"
 major = 4
 minor = 2
 patch = 0
 status = "dev"
 module_config = ""
 year = 2023
-website = "https://godotengine.org"
+website = "https://hyperedgelabs.xyz"
 docs = "latest"
